@@ -1,10 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fishchukov.fishchukov" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет+👋+Меня+зовут+Александр!;+Давай+знакомиться!;" />
-</h1>
+<h1 align="center">Привет👋 Меня зовут Александр!</h1>
+
 
 <h3 align="center">Решаю сложные бизнес задачи при помощи аналитики</h3>
+
+<div align="center">
+    <a href="https://t.me/a_fishchukov" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
 <!--
 **fishchukov/fishchukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
