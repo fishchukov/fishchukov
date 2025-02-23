@@ -12,7 +12,10 @@
     <a href="mailto:a.fishchukov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</div>
+     <a href="https://orel.hh.ru/resume/475da9b4ff0e21e1460039ed1f5668456d3764" target="_blank">
+    <img src="https://img.shields.io/badge/HH-D32F2F?style=for-the-badge&logo=HH&logoColor=FFFFFF" alt="hh.ru" />
+  </a>
+ </div>
 
 <!--
 **fishchukov/fishchukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
