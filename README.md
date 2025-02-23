@@ -17,7 +17,20 @@
   </a>
  </div>
 
-**Мой стек инструментов:**
+<h3 align="left">Обо мне:</h3>
+<p align="left">Более 5 лет в аналитике данных в сферах IT, производства и услуг. 
+    
+Помимо стандартных задач по созданию и поддержанию регулярной отчетности, а также решения Ad hoc задач, реализовал следующие кейсы:
+
+- Проведен анализ производственных процессов, что позволило сократить время производственного цикла до 20%.
+
+- Оптимизирована система планирования, что обеспечило запуск заказов в производство практически без задержек.
+  
+- Оптимизирована система мониторнга заказов в производстве, что позволило оперативное реагирование на нестандартные ситуации.
+
+- Оптимизирована система мониторинга показателей SLA, что позволило снизить издержки до 10%.</p>
+
+<h3 align="left">Мой стек инструментов:</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"  />
@@ -32,9 +45,9 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"  />
   <img src="https://img.shields.io/badge/Seaborn-404D5C?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Jasper_Reports-FF7800?style=for-the-badge&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Jasper_Reports-4479A1?style=for-the-badge&logoColor=white"  />
   <img src="https://img.shields.io/badge/Yandex_DataLens-FF0000?style=for-the-badge&logo=yandex&logoColor=white"  />
-  <img src="https://img.shields.io/badge/Apache_Superset-FF7800?style=for-the-badge&logo=apache-superset&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Superset-404D5C?style=for-the-badge&logo=apache-superset&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-666699?style=for-the-badge&logo=tableau&logoColor=white" />
     
     
