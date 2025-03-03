@@ -50,8 +50,13 @@
   <img src="https://img.shields.io/badge/Apache_Superset-404D5C?style=for-the-badge&logo=apache-superset&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-666699?style=for-the-badge&logo=tableau&logoColor=white" />
     
-    
 </div>
+
+
+<h3 align="center">Примеры работ 👇</h3>
+
+
+- 📊📈 Динамический дашборд построенный в Datalens: [Оценка показателей медиаплатформы.](https://datalens.yandex/lm97wc6j7v0u7)
 
 <!--
 **fishchukov/fishchukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
