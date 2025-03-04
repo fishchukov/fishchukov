@@ -56,7 +56,7 @@
 <h3 align="center">Примеры работ 👇</h3>
 
 
-- 📊📈 Динамический дашборд построенный в Datalens: [Оценка показателей медиаплатформы.](https://datalens.yandex/lm97wc6j7v0u7)
+- 📊📈 Динамический дашборд построенный в Datalens: [Показатели медиаплатформы.](https://datalens.yandex/lm97wc6j7v0u7)
 
 <!--
 **fishchukov/fishchukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
