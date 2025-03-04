@@ -57,6 +57,7 @@
 
 
 - 📊📈 Динамический дашборд построенный в Datalens: [Показатели медиаплатформы.](https://datalens.yandex/lm97wc6j7v0u7)
+- 💹📄 SQL запрос в рамках Ad-hoc задачи:  [Анализ рынка недвижимости.](https://github.com/fishchukov/projects/blob/main/real_estate_market_analysis.sql)  
 
 <!--
 **fishchukov/fishchukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
